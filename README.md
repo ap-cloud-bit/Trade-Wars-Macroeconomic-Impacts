@@ -98,7 +98,7 @@ Trade-Wars-Macroeconomic-Impacts/
 ## 📎 Full Analysis
 The complete workflow, code, and econometric results are available in:
 
-**`notebooks/Trade_Wars_Macroeconomic_Impacts_Panel_Analysis.ipynb`**
+🔗 [Trade_Wars_Macroeconomic_Impacts_Panel_Analysis.ipynb](notebooks/Trade_Wars_Macroeconomic_Impacts_Panel_Analysis.ipynb)
 
 ---
 
