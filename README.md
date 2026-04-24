@@ -3,7 +3,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
-![License](https://img.shields.io/github/license/yourusername/Trade-Wars-Macroeconomic-Impacts)
+![License](https://img.shields.io/github/license/ap-cloud-bit/Trade-Wars-Macroeconomic-Impacts)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
 ---
@@ -53,42 +53,37 @@ Trade-Wars-Macroeconomic-Impacts/
 ## 📊 Key Visual Results
 
 ### Trade Dynamics
-**Exports of Goods & Services (USD)**  
-outputs/figures/trade_exports_time_series.png
+![Exports Over Time](outputs/figures/trade_exports_time_series.png)
 
-**Trade Openness (% of GDP) Across Periods**  
-outputs/figures/trade_openness_boxplot.png
+![Trade Openness](outputs/figures/trade_openness_boxplot.png)
 
 ---
 
 ### GDP & Growth
-**GDP Growth Across Trade‑War Periods**  
-outputs/figures/gdp_growth_periods.png
+![GDP Growth](outputs/figures/gdp_growth_periods.png)
 
 ---
 
 ### Labor Market
-**Unemployment Rates Across Periods**  
-outputs/figures/unemployment_periods.png
+![Unemployment](outputs/figures/unemployment_periods.png)
 
 ---
 
 ### Investment (Key Channel)
-**FDI Net Inflows Across Periods**  
-outputs/figures/fdi_periods.png
+![FDI Across Periods](outputs/figures/fdi_periods.png)
 
 ---
 
 ## ⏱ Event‑Study Evidence
 
-**Exports (Baseline = 2017)**  
-outputs/figures/event_study_exports.png
+### Exports
+![Event Study Exports](outputs/figures/event_study_exports.png)
 
-**GDP Growth (Baseline = 2017)**  
-outputs/figures/event_study_gdp_growth.png
+### GDP Growth
+![Event Study GDP Growth](outputs/figures/event_study_gdp_growth.png)
 
-**FDI Net Inflows (Baseline = 2017)**  
-outputs/figures/event_study_fdi.png
+### FDI Net Inflows
+![Event Study FDI](outputs/figures/event_study_fdi.png)
 
 ---
 
